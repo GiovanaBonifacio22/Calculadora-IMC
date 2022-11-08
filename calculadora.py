@@ -5,7 +5,7 @@ altura = float(input("Digite sua altura: "))
 peso = float(input("Digite seu peso: "))
 imc = peso/altura**2 # formula para calcular o imc
 
-# saldo de dados
+# saida de dados
 print("-" * 30)
 print("OS DADOS COLETADOS FORAM:")
 print("NOME",nome)
